@@ -15,7 +15,10 @@ main:
     url: /supervision/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+    
+  - title: "Prospective Students"
+    url: /prospective-students
     
   #- title: "Portfolio"
    # url: /portfolio/
