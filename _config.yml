@@ -35,8 +35,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=Aml0q7sAAAAJ&hl=en"
+  googlescholar    :  "https://scholar.google.com/citations?user=Aml0q7sAAAAJ&hl=en"
   linkedin         :  "https://www.linkedin.com/in/mojtaba-shahin-659b87b8/"
+  dblp             :  "https://dblp.org/pers/s/Shahin:Mojtaba.html"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # "https://orcid.org/yourorcidurl"
