@@ -23,4 +23,4 @@ Research Interests
 - Software Architecture
 - Secure Software Engineering
 - DevOps
-- Qualitative Research.
+- Qualitative Research
