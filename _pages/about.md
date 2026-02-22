@@ -9,20 +9,20 @@ redirect_from:
 
 I am a Senior Lecturer (equivalent to a U.S. Associate Professor) in the School of Computing Technologies at RMIT University, Melbourne, Australia. Previously, I was a Research Fellow in the Faculty of Information Technology, Monash University. I completed my PhD study in Computer Science with a major in Software Engineering in 2018 at The University of Adelaide, Australia. My research has resulted in over 70 peer-reviewed publications, including papers in top-tier venues such as the IEEE Transactions on Software Engineering, the ACM Transactions on Software Engineering and Methodology, and the IEEE/ACM International Conference on Software Engineering. According to Google Scholar (November 2025), my work has received +4,400 citations, with an h-index of 30 and an i10-index of 51. Additionally, in 2023, 2024 and 2025, I was recognised by Stanford University and Elsevier as one of the top 2% most cited researchers in the world in the Software Engineering field for ‘single year impact’.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Research Interests 
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am passionate about advancing Software Engineering (SE) research to address the challenges of developing ethical, trustworthy, and high-quality AI-based software systems. My research interests primarily reside in Software Engineering for AI, AI for Software Engineering, the Human, Social, and Ethical Aspects of Software Engineering, Software Architecture, Empirical Software Engineering, DevOps, Secure Software Engineering, and Qualitative Research. My research aims to develop a deep understanding of how large-scale AI-based software systems are developed, designed, and evaluated in the industry to create innovative tools, processes, theories, and frameworks that enhance their reliability, ethical alignment, and societal impact.
+AI/LLM for Software Engineering, Software Engineering for AI, Empirical Software Engineering, Human and Social Aspects of Software Engineering, Software Architecture, Secure Software Engineering, DevOps, and Qualitative Research.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- Software Engineering
+- AI/LLM for Software Engineering
+- Software Engineering for AI
+- Empirical Software Engineering
+- Human and Social Aspects of Software Engineering
+- Software Architecture
+- Secure Software Engineering
+- DevOps
+- Qualitative Research.
 
 Getting started
 ======
