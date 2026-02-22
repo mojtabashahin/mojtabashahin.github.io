@@ -11,7 +11,7 @@ I am a Senior Lecturer (equivalent to a U.S. Associate Professor) in the School 
 
 Research Interests 
 ======
-I am passionate about advancing Software Engineering (SE) research to address the challenges of developing ethical, trustworthy, and high-quality AI-based software systems. My research interests primarily reside in Software Engineering for AI, AI for Software Engineering, the Human, Social, and Ethical Aspects of Software Engineering, Software Architecture, Empirical Software Engineering, DevOps, Secure Software Engineering, and Qualitative Research. My research aims to develop a deep understanding of how large-scale AI-based software systems are developed, designed, and evaluated in the industry to create innovative tools, processes, theories, and frameworks that enhance their reliability, ethical alignment, and societal impact.
+I am passionate about advancing Software Engineering (SE) research to address the challenges of developing ethical, trustworthy, and high-quality AI-based software systems. My research aims to develop a deep understanding of how large-scale AI-based software systems are developed, designed, and evaluated in the industry to create innovative tools, processes, theories, and frameworks that enhance their reliability, ethical alignment, and societal impact.
 
 - Software Engineering
 - AI/LLM for Software Engineering
