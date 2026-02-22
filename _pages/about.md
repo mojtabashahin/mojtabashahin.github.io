@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Lecturer (equivalent to a U.S. Associate Professor) in the School of Computing Technologies at RMIT University, Melbourne, Australia. Previously, I was a Research Fellow in the Faculty of Information Technology, Monash University. I completed my PhD study in Computer Science with a major in Software Engineering in 2018 at The University of Adelaide, Australia. 
-My research has resulted in over __70 peer-reviewed publications__, including papers in top-tier venues such as the IEEE Transactions on Software Engineering, the ACM Transactions on Software Engineering and Methodology, and the IEEE/ACM International Conference on Software Engineering. According to Google Scholar (November 2025), my work has received +4,400 citations, with an h-index of 30 and an i10-index of 51. Additionally, in 2023, 2024 and 2025, I was recognised by Stanford University and Elsevier as __one of the top 2% most cited researchers in the world in the Software Engineering field__ for ‘single year impact’.
+<p style="text-align: justify;">I am a Senior Lecturer (equivalent to a U.S. Associate Professor) in the School of Computing Technologies at RMIT University, Melbourne, Australia. Previously, I was a Research Fellow in the Faculty of Information Technology, Monash University. I completed my PhD study in Computer Science with a major in Software Engineering in 2018 at The University of Adelaide, Australia.</p> 
+
+My research has resulted in over __70 peer-reviewed publications__, including papers in top-tier venues such as the IEEE Transactions on Software Engineering, the ACM Transactions on Software Engineering and Methodology, and the IEEE/ACM International Conference on Software Engineering. According to Google Scholar (November 2025), my work has received __+4,400 citations__, with an h-index of 30 and an i10-index of 51. Additionally, in 2023, 2024 and 2025, I was recognised by Stanford University and Elsevier as __one of the top 2% most cited researchers in the world in the Software Engineering field__ for ‘single year impact’.
 
 Research Interests 
 ======
