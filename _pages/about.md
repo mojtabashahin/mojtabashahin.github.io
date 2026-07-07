@@ -13,7 +13,7 @@ redirect_from:
 
 Research Interests 
 ======
-<p style="text-align: justify;">I am passionate about advancing Software Engineering (SE) research to address the challenges of developing ethical, trustworthy, and high-quality AI-based software systems. My research aims to develop a deep understanding of how large-scale AI-based software systems are developed, designed, and evaluated in the industry to create innovative tools, processes, theories, and frameworks that enhance their reliability, ethical alignment, and societal impact. </p>
+<p style="text-align: justify;">I am passionate about advancing Software Engineering (SE) research to address the challenges of developing ethical, trustworthy, and high-quality AI-based software systems. My research aims to develop a deep understanding of how large-scale AI-based software systems are designed, developed, and evaluated in industry, to create innovative tools, processes, theories, and frameworks that enhance their reliability, ethical alignment, and societal impact. </p>
 
 - Software Engineering
 - AI/LLM for Software Engineering
